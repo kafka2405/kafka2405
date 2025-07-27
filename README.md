@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Đặng Đình Quyền</h1>
 <h3 align="center">A passionate Backend developer from VietNam</h3>
 
-- 🌱 I’m currently learning **Microservices, VueJS, DevOps, AWS, Advanced Java**
+- 🌱 I’m currently learning **Microservices, VueJS, DevOps, AWS and Advanced Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kafka2405](https://github.com/kafka2405)
 
